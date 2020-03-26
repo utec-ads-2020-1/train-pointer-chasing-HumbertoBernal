@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/humbertobernal/CLionProjects/Pointer_Chasing_try1/HumbertoBernal.h
+
+/Users/humbertobernal/CLionProjects/Pointer_Chasing_try1/main.cpp
+iostream
+-
+HumbertoBernal.h
+/Users/humbertobernal/CLionProjects/Pointer_Chasing_try1/HumbertoBernal.h
+
